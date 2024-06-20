@@ -3,6 +3,6 @@ Applied Math Project where we analyse Time Series Data using ARIMA, Regressive, 
 We also performed image processing techniques in the image provided "a4.png" and tried GMM clustering of the blobs.
 
 -----------------MADE BY---------------
-1. SHIRSENDU PAL
-2. SAHIL KUMAR
-3. JAYANT JAGTAP
+1. Jayant Jagap
+2. Shirsendu Pal
+3. Sahil Kumar
